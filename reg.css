@@ -1,0 +1,30 @@
+form{
+text-align: center;
+width: 350px;
+background-color: #FFF;
+margin: 1px auto;
+
+padding: 15px;
+border-radius: 15px;
+}
+
+input{
+margin: 10px;
+border: 1px solid black;
+
+ border-radius: 15px;
+
+outline: none;
+}
+
+
+body{
+background-image: url(img/fon_reg.PNG);
+}
+
+a{
+text-decoration: none;
+color: #FFF;
+position: relative;
+background-color: black;
+}

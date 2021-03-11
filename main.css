@@ -1,0 +1,171 @@
+#menu{
+text-align: center;
+}
+
+#menu a{
+display: inline-block;
+color: #000;
+text-decoration: none;
+
+margin: 50px;
+margin-top: 50px;
+width: 100px;
+margin-bottom: 0px;
+}
+
+#menu a:hover{
+-webkit-transform: scale(1.3);
+  -ms-transform: scale(1.3);
+  transform: scale(1.3);
+}
+
+.header{
+text-align: center;
+
+background-image: url(img/saiken 1.png);
+background-repeat: no-repeat;
+background-position: top center;
+
+
+padding: 50px 0;
+
+color: black;
+}
+
+.submit{
+text-decoration: none;
+color: #FFF;
+background-color: black;
+
+padding: 12px 24px;
+margin-top: 100px;
+
+
+border-radius: 10px;
+}
+
+#about_us{
+margin: 0 auto;
+padding: 40px 0; 
+
+width: 1200px;
+
+}
+
+
+.member{
+display: inline-block;
+
+width: 20%;
+margin: 20px 10px;
+padding: 2px;
+
+border: 2px solid grey;
+height: 680px;
+
+box-shadow: 0 2px 5px grey;
+
+}
+
+#team{
+text-align: center;
+}
+
+.member img{
+width: 100%;
+
+}
+
+.position{
+text-decoration: underline;
+}
+
+
+.submit_head{
+text-decoration: none;
+color: #FFF;
+position: relative;
+background-color: black;
+
+top: 50px;
+padding: 12px 24px;
+margin-top: 100px;
+
+border-radius: 10px;
+}
+
+#feedback{
+text-align: center;
+width: 785px;
+margin-left: 530px;
+
+background-color: #e9e9e9;
+}
+
+.feedback{
+margin: 10px;
+width: 500px;
+height: 27px;
+}
+
+textarea{
+
+width: 500px;
+height: 75px;
+}
+
+#prices{
+text-align: center;
+
+background-color: #DCDCDC;
+}
+
+.tariff li{
+list-style-type: none;
+
+border-bottom-width: 1px;
+border-bottom-style: solid;
+border-bottom-color: #DDDDDD;
+
+padding: 16px 0;
+}
+
+.tariff{
+display: inline-block;
+
+width: 25%;
+margin: 10px;
+vertical-align: middle;
+
+background-color: white;
+
+
+}
+
+.tariff .tariff-name{
+color: white;
+background-color: black;
+
+font-size: 24px;
+padding: 32px 0;
+}
+
+.tariff li:last-child{
+background-color: #C0C0C0;
+
+padding: 24px 0;
+}
+
+.tariff a:hover{
+background-color: white;
+color: black;
+}
+
+.price{
+font-weight: bold;
+font-size: 24px;
+}
+
+.period{
+font-size: 20px;
+}
